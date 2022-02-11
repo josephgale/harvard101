@@ -16,6 +16,8 @@ listFail = [
     'Q12d2p1d1',
     'Q3d1p2 ', 
     'Q3d00p3',
+    'Q-10p-6d-4',
+    'Q5.2p20d32'
     'Q05p00003d0002', 
     'Q1p1d0Q1d0p1Q10p1d0Q12p10d2Q2p1d1Q1p1d0Q1Q2p2d0', 
     'Q00p00d00', 
