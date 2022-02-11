@@ -15,7 +15,11 @@ listFail = [
     'Q12p10d2p1d1Q4p1d3', 
     'Q12d2p1d1',
     'Q3d1p2 ', 
-    'Q3d00p3'
+    'Q3d00p3',
+    'Q05p00003d0002', 
+    'Q1p1d0Q1d0p1Q10p1d0Q12p10d2Q2p1d1Q1p1d0Q1Q2p2d0', 
+    'Q00p00d00', 
+    'Q32pp30dd2'
     ]
 listSucceed = [
     'Q1p1d0Q1d0p1', 
