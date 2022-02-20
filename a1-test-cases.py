@@ -3,6 +3,7 @@
 # Please inform if there is an error in this list. 
 
 listFail = [
+    '',
     'q1p0d1', 
     'Q1pd1', 
     'Q1p1d', 
